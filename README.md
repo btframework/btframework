@@ -45,18 +45,33 @@ This repository contains:
 **for free** or **for fun**.
 - My [hobby](https://www.youtube.com/mikepetrichenko) projects
 
-### Our sites, projects and resources
+### Company Social Media Resources
 
-- [Youtube](https://www.youtube.com/mikepetrichenko)
-- [Instagram](https://instagram.com/drone_tales/)
-- [My Facebook](https://www.facebook.com/mike.petrichenko)
-- [Marina's Facebook](https://www.facebook.com/marina.petrichenko.1)
+- [Facebook](https://www.facebook.com/SoftServiceCompany)
+- [Hobby Facebook page](https://www.facebook.com/btframework)
 - [LinkedIn](https://www.linkedin.com/in/mikepetrichenko/)
-- [Company's Facebook page](https://www.facebook.com/SoftServiceCompany)
-- [My Hobby Facebook page](https://www.facebook.com/btframework)
-- [Spektrum Telemetry Viewer](https://www.tlmviewer.com)
+
+### Company Projects
+
 - [Bluetooth Framework](https://www.btframework.com/bluetoothframework.htm)
 - [IrDA Framework](https://www.btframework.com/irdaframework.htm)
 - [Serial Framework](https://www.btframework.com/serialframework.htm)
 - [WiFi Framework](https://www.btframework.com/wififramework.htm)
 - [Wireless Communication Library](https://www.btframework.com/wcl.htm)
+- [Spektrum Telemetry Viewer](https://www.tlmviewer.com)
+
+### Personal
+
+#### Mike Petrichenko
+
+- [Facebook](https://www.facebook.com/mike.petrichenko)
+- [YouTube](https://www.youtube.com/@drone_tales)
+- [Instagram](https://instagram.com/drone_tales/)
+- [TikTok](https://www.tiktok.com/@drone_tales)
+
+#### Marina Petrichenko
+
+- [Facebook](https://www.facebook.com/marina.petrichenko.1)
+- [YoutTube](https://www.youtube.com/@cottonwoolies)
+- [Instagram](https://www.instagram.com/cotton_woolies/)
+- [TikTok](https://www.tiktok.com/@cotton_woolies)
