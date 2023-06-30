@@ -42,7 +42,7 @@ This repository contains:
 
 - [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
 - Applications we ([me](https://www.linkedin.com/in/mikepetrichenko/) and my [wife](https://www.facebook.com/marina.petrichenko.1) developed
-**for free** or **for fun**.
+**for free** or **for fun**).
 - My [hobby](https://www.youtube.com/mikepetrichenko) projects
 
 ### Company Social Media Resources
