@@ -48,7 +48,6 @@ This repository contains:
 ### Company Social Media Resources
 
 - [Facebook](https://www.facebook.com/SoftServiceCompany)
-- [Hobby Facebook page](https://www.facebook.com/btframework)
 - [LinkedIn](https://www.linkedin.com/in/mikepetrichenko/)
 
 ### Company Projects
@@ -65,9 +64,11 @@ This repository contains:
 #### Mike Petrichenko
 
 - [Facebook](https://www.facebook.com/mike.petrichenko)
+- [Hobby Facebook page](https://www.facebook.com/btframework)
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
 - [TikTok](https://www.tiktok.com/@drone_tales)
+- [Telegram] (https://t.me/drone_tales)
 
 #### Marina Petrichenko
 
