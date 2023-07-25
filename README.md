@@ -7,6 +7,15 @@ if you need to develop an unique software - you are at the right place!
 
 [Soft Service Company](https://www.btframework.com)
 
+### About repository
+
+This repository contains:
+
+- [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
+- Applications we ([me](https://www.linkedin.com/in/mikepetrichenko/) and my [wife](https://www.facebook.com/marina.petrichenko.1) developed
+**for free** or **for fun**).
+- My [hobby](https://www.youtube.com/mikepetrichenko) projects
+
 ### Our products
 
 #### Bluetooth Framework
@@ -36,32 +45,30 @@ desktop platforms.
 This project was developed by me as hobby one by request of one RC Helicopter pilot. It is free project.
 [Read more...](https://www.tlmviewer.com)
 
-### About repository
+### Projects
 
-This repository contains:
-
-- [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
-- Applications we ([me](https://www.linkedin.com/in/mikepetrichenko/) and my [wife](https://www.facebook.com/marina.petrichenko.1) developed
-**for free** or **for fun**).
-- My [hobby](https://www.youtube.com/mikepetrichenko) projects
-
-### Company Social Media Resources
-
-- [Facebook](https://www.facebook.com/SoftServiceCompany)
-- [LinkedIn](https://www.linkedin.com/in/mikepetrichenko/)
-
-### Company Projects
+#### Company
 
 - [Bluetooth Framework](https://www.btframework.com/bluetoothframework.htm)
 - [IrDA Framework](https://www.btframework.com/irdaframework.htm)
 - [Serial Framework](https://www.btframework.com/serialframework.htm)
 - [WiFi Framework](https://www.btframework.com/wififramework.htm)
 - [Wireless Communication Library](https://www.btframework.com/wcl.htm)
+
+#### Personal
+
 - [Spektrum Telemetry Viewer](https://www.tlmviewer.com)
 
-### Personal
+### Social Media Resources
 
-#### Mike Petrichenko
+#### Company 
+
+- [Facebook](https://www.facebook.com/SoftServiceCompany)
+- [LinkedIn](https://www.linkedin.com/in/mikepetrichenko/)
+
+#### Personal
+
+##### Mike Petrichenko
 
 - [Facebook](https://www.facebook.com/mike.petrichenko)
 - [Hobby Facebook page](https://www.facebook.com/btframework)
@@ -70,7 +77,7 @@ This repository contains:
 - [TikTok](https://www.tiktok.com/@drone_tales)
 - [Telegram](https://t.me/drone_tales)
 
-#### Marina Petrichenko
+##### Marina Petrichenko
 
 - [Facebook](https://www.facebook.com/marina.petrichenko.1)
 - [YoutTube](https://www.youtube.com/@cottonwoolies)
