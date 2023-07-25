@@ -68,7 +68,7 @@ This repository contains:
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
 - [TikTok](https://www.tiktok.com/@drone_tales)
-- [Telegram] (https://t.me/drone_tales)
+- [Telegram](https://t.me/drone_tales)
 
 #### Marina Petrichenko
 
