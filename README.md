@@ -71,7 +71,6 @@ This project was developed by me as hobby one by request of one RC Helicopter pi
 ##### Mike Petrichenko
 
 - [Facebook](https://www.facebook.com/mike.petrichenko)
-- [Hobby Facebook page](https://www.facebook.com/btframework)
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
 - [Telegram](https://t.me/drone_tales)
