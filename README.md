@@ -74,7 +74,6 @@ This project was developed by me as hobby one by request of one RC Helicopter pi
 - [YouTube](https://www.youtube.com/@drone_tales)
 - [Instagram](https://instagram.com/drone_tales/)
 - [Telegram](https://t.me/drone_tales)
-- [Threads](https://www.threads.net/@drone_tales)
 
 ##### Marina Petrichenko
 
