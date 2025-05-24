@@ -9,13 +9,9 @@ if you need to develop an unique software - you are at the right place!
 
 ### About repository
 
-This repository contains:
+This repository contains the [Wireless Communication Library](https://www.btframework.com/wcl.htm) samples code.
 
-- [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
-- Applications I developed **for free** or **for fun**.
-- My [hobby](https://www.youtube.com/mikepetrichenko) projects
-
-### My products
+### Products
 
 #### Bluetooth Framework
 
@@ -39,38 +35,7 @@ desktop platforms.
 **Wi-Fi Framework** is the Software Developer Kit (SDK) for software developers that provides an easy access to the Wi-Fi features on Windows desktop platforms.
 [Read more...](https://www.btframework.com/wififramework.htm)
 
-### Spektrum Telemetry Log File Viewer
-
-This project was developed by me as hobby one by request of one RC Helicopter pilot. It is free project.
-[Read more...](https://www.tlmviewer.com)
-
-### Projects
-
-#### Company
-
-- [Bluetooth Framework](https://www.btframework.com/bluetoothframework.htm)
-- [IrDA Framework](https://www.btframework.com/irdaframework.htm)
-- [Serial Framework](https://www.btframework.com/serialframework.htm)
-- [WiFi Framework](https://www.btframework.com/wififramework.htm)
-- [Wireless Communication Library](https://www.btframework.com/wcl.htm)
-
-#### Personal
-
-- [Spektrum Telemetry Viewer](https://www.tlmviewer.com)
-
 ### Social Media Resources
-
-#### Company 
 
 - [Facebook](https://www.facebook.com/SoftServiceCompany)
 - [LinkedIn](https://www.linkedin.com/in/mikepetrichenko/)
-
-#### Personal
-
-##### Mike Petrichenko
-
-- [Facebook](https://www.facebook.com/mike.petrichenko)
-- [YouTube](https://www.youtube.com/@drone_tales)
-- [Instagram](https://instagram.com/drone_tales/)
-- [Telegram](https://t.me/drone_tales)
-
