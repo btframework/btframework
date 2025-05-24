@@ -12,11 +12,10 @@ if you need to develop an unique software - you are at the right place!
 This repository contains:
 
 - [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
-- Applications we ([me](https://www.linkedin.com/in/mikepetrichenko/) and my [wife](https://www.facebook.com/marina.petrichenko.1) developed
-**for free** or **for fun**).
+- Applications I developed **for free** or **for fun**).
 - My [hobby](https://www.youtube.com/mikepetrichenko) projects
 
-### Our products
+### My products
 
 #### Bluetooth Framework
 
@@ -75,9 +74,3 @@ This project was developed by me as hobby one by request of one RC Helicopter pi
 - [Instagram](https://instagram.com/drone_tales/)
 - [Telegram](https://t.me/drone_tales)
 
-##### Marina Petrichenko
-
-- [Facebook](https://www.facebook.com/marina.petrichenko.1)
-- [YoutTube](https://www.youtube.com/@cottonwoolies)
-- [Instagram](https://www.instagram.com/cotton_woolies/)
-- [TikTok](https://www.tiktok.com/@cotton_woolies)
