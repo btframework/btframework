@@ -12,7 +12,7 @@ if you need to develop an unique software - you are at the right place!
 This repository contains:
 
 - [Wireless Communication Library](https://www.btframework.com/wcl.htm) sample code
-- Applications I developed **for free** or **for fun**).
+- Applications I developed **for free** or **for fun**.
 - My [hobby](https://www.youtube.com/mikepetrichenko) projects
 
 ### My products
