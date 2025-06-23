@@ -19,11 +19,6 @@ This repository contains the [Wireless Communication Library](https://www.btfram
 Bluetooth Framework supports both Bluetooth technologies: **Classic Bluetooth** and **Bluetooth Low Energy (LE)**.
 [Read more...](https://www.btframework.com/bluetoothframework.htm)
 
-#### IrDA Framework
-
-**IrDA Framework** is the Software Developer Kit (SDK) for software developers that provides an easy access to the **IrDA** features on Windows platforms
-[Read more...](https://www.btframework.com/irdaframework.htm)
-
 #### Serial Framework
 
 **Serial Framework** is the Software Developer Kit (SDK) for software developers that provides an easy access to the Serial Ports features on Windows
